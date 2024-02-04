@@ -1,10 +1,9 @@
-import numpy as np
-import system 
-import randomgen
+from numpy.random import Generator
+from randomgen import Xoroshiro128
 
 # Create a random number generator
-rng = randomgen.Xoroshiro128()
+rng = Xoroshiro128()
 
-# Roll the die
-result = rng.integers(1, 7)  # Generates a random integer between 1 and 6
-print(result)
+result = rng.random(size=1)  # Generate a random float in the half-open interval [0.0, 1.0)
+die_roll = int(1 + 6 * result)  # Scale the float to the range [1, 6]
+print(die_roll)
