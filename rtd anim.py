@@ -30,4 +30,4 @@ def animgif_to_ASCII_animation(animated_gif_path):
             time.sleep(0.1)
 
 # run the animation based on some animated gif
-animgif_to_ASCII_animation(u'/Users/falcga/Documents/GitHub/falcga/anim.gif')
+animgif_to_ASCII_animation(u'/Users/falcga/Documents/GitHub/falcga/verticalanim.gif')
