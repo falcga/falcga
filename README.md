@@ -1,5 +1,26 @@
-### Hi there 👋
+# hiiiii 👋
+I'm new programmer! :3
+want to make meme database editor :))))
+### i use several programming and markup languages  such as:
+ - Python
+ - C# (Unity things)
+ - Lua (bc why not)
+- Markdown
+- HTML
+- CSS
 
+### I've worked in:
+- Figma
+- VS/VSCode
+- Blender
+- Sublime
+- GitHub ecosystem
+- Compass 3D
+- Unity
+- Godot
+- ~~of topic Davinchi Resolve~~
+
+📱 You can reach me via telegram @falcga
 <!--
 **falcga/falcga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
