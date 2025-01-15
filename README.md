@@ -18,7 +18,7 @@ want to make meme database editor :))))
 - Compass 3D
 - Unity
 - Godot
-- ~~of topic Davinchi Resolve~~
+- ~~off topic Davinchi Resolve~~
 
 📱 You can reach me via telegram @falcga
 <!--
